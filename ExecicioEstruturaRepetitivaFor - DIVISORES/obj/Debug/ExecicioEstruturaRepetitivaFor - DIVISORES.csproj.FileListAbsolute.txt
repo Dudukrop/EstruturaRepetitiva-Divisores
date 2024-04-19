@@ -1,0 +1,14 @@
+C:\Users\eduardo.kropniczki\source\repos\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\bin\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.exe.config
+C:\Users\eduardo.kropniczki\source\repos\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\bin\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.exe
+C:\Users\eduardo.kropniczki\source\repos\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\bin\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.pdb
+C:\Users\eduardo.kropniczki\source\repos\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.exe
+C:\Users\eduardo.kropniczki\source\repos\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.pdb
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\bin\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.exe.config
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\bin\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.exe
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\bin\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.pdb
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.csproj.AssemblyReference.cache
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.csproj.SuggestedBindingRedirects.cache
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.csproj.CoreCompileInputs.cache
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.exe
+C:\Programação\GitHubProjects\Repositorio C#\ExecicioEstruturaRepetitivaFor - DIVISORES\ExecicioEstruturaRepetitivaFor - DIVISORES\obj\Debug\ExecicioEstruturaRepetitivaFor - DIVISORES.pdb
